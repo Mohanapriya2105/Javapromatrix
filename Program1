@@ -5,15 +5,15 @@ public class ProdMatrix
         //Initialize matrix a    
         int a[][] = {    
                           {1, 3, 2},    
-                          {3, 1, 1}    
-                          {1, 2, 2}    
+                          {3, 1, 1},  
+                          {1, 2, 2},   
                        };    
               
           //Initialize matrix b    
           int b[][] = {    
                           2, 1, 1},    
                          {1, 0, 1},    
-                         {1, 3, 1}    
+                         {1, 3, 1},   
                      };    
               
           //Calculates number of rows and columns present in first matrix    
