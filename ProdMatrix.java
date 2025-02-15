@@ -1,3 +1,4 @@
+// Philip Reji Rajan 23BCAF45 commit
 public class ProdMatrix    
 {
 	public static void main (String[] args) 
@@ -11,12 +12,12 @@ public class ProdMatrix
 		int b[][] = {{2, 1, 1}, {1, 0, 1}, {1, 3, 1}};    
 
 		//Calculates number of rows and columns present in first matrix    
-		row1 = a.length();    
-		col1 = a[0].length();    
+		row1 = a.length;    
+		col1 = a[0].length;    
 		
 		//Calculates the number of rows and columns present in the second matrix    
-		row2 = b.length();    
-		col2 = b[0].length();    
+		row2 = b.length;    
+		col2 = b[0].length;    
 		
 		//For two matrices to be multiplied,     
 		//number of columns in first matrix must be equal to number of rows in second matrix    
