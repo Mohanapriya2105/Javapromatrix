@@ -48,7 +48,7 @@ public class main
                 for(int j = 0; j < col2; j++){    
                    System.out.print(prod[i][j] + " ");    
                 }    
-                System.out.println();    
+                System.out.println();
             }    
         }    
     }    
