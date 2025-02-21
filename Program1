@@ -1,6 +1,6 @@
 public class ProdMatrix    
 {    
-    public static void (String[] args) {    
+    public static void main(String[] args) {    
         int row1, col1, row2, col2;    
         //Initialize matrix a    
         int a[][] = {    
