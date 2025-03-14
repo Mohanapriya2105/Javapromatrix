@@ -6,12 +6,12 @@ class ProdMatrix
         int a[][] = {    
                           {1, 3, 2},    
                           {3, 1, 1},   
-                          {1, 2, 2}    
+
                        };    
               
           //Initialize matrix b    
           int b[][] = {    
-                         {2, 1, 1},    
+
                          {1, 0, 1},    
                          {1, 3, 1}    
                      };    
@@ -23,7 +23,7 @@ class ProdMatrix
         //Calculates the number of rows and columns present in the second matrix    
     
           row2 = b.length;    
-        col2 = b.length;    
+
             
         //For two matrices to be multiplied,     
         //number of columns in first matrix must be equal to number of rows in second matrix    
@@ -44,8 +44,7 @@ class ProdMatrix
             }    
                 
             System.out.println("Product of two matrices: ");    
-            for(int i= 0; i < row1; i++){    
-                for(int j= 0; j < col2; j++){    
+
                    System.out.print(prod[i][j] + " ");    
                 }    
                 System.out.println();    
