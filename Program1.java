@@ -49,6 +49,7 @@ public class ProdMatrix
                    System.out.print(prod[i][j] + " ");    
                 }    
                 System.out.println();    
+                System.out.println("Opening pull request");
             }    
         }    
     }     
