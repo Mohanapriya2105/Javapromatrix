@@ -1,4 +1,4 @@
-class javapromatrix
+
 {    
     {    
         int row1, col1, row2, col2;    
