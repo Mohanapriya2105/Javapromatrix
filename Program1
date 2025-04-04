@@ -35,9 +35,7 @@
             int prod[][] = new int[row1][col2];    
                 
             //Performs product of matrices a and b. Store the result in matrix prod    
-            for(int i = 0; i < row1; i++){    
-                for(int j = 0; j < col2; j++){    
-                    for(int k = 0; k < row2; k++){    
+            for(i
                        prod[i][j] = prod[i][j] + a[i][k] * b[i][j];     
                     }    
                 }    
