@@ -42,7 +42,7 @@ public class ProdMatrix {
             }    
             
             // Print the product of two matrices    
-            System.out.println("Product of two matrices: ");    
+            System.out.println("Product of two matrices are as follows: ");    
             for (int i = 0; i < row1; i++) {    
                 for (int j = 0; j < col2; j++) {    
                     System.out.print(prod[i][j] + " ");    
