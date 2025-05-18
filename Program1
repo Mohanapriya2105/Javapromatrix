@@ -17,7 +17,7 @@ public class ProdMatrix
                      };    
               
           //Calculates number of rows and columns present in first matrix    
-          row1 = a.length;....    
+          row1 = a.length;    
         col1 = a[0].length;   
             
         //Calculates the number of rows and columns present in the second matrix    
